@@ -1,0 +1,7 @@
+*~
+*.swp
+.DS_Store
+.tar
+.tar.gz
+.zip
+.vscode
